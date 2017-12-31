@@ -1,4 +1,3 @@
-//MzkxMzc4NDk1MTE4NTA4MDMy.DRX2NA.G6cVAOTl9SGfRLp9d3H8orAyrmI
 package defaulte;
 
 import java.io.BufferedReader;
@@ -46,7 +45,7 @@ public class discordbot {
 	}
 
 	public static void main(String args[]) {
-		discordbot bob = new discordbot("Mzk3MTAzOTk5MTA4NTEzODA0.DSrHsg.ocIp_CExl9fy5tz4NrK39ca5x6o");
+		discordbot bob = new discordbot();
 	}
 }
 
